@@ -64,7 +64,7 @@ STATUS      : SYNCHRONIZING...
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xx1ndr)
-[![Portfolio](https://img.shields.io/badge/TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff9d)]([YOUR_PORTFOLIO_LINK])
+[![Portfolio](https://img.shields.io/badge/TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff9d)](https://portofolio-indra-git-main-xx1ndr.vercel.app/)
 [![Email](https://img.shields.io/badge/MAIL-6a0dad?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xx1ndr4@gmail.com)
 
 </div>
