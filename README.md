@@ -71,7 +71,7 @@ TARGET  : SYNCING SOUL TO RHYTHM
 
 <div align="center">
 <a href="https://open.spotify.com/user/31vsoue57t72ft7yeqqtrhwfafya">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vsoue57t72ft7yeqqtrhwfafya&cover_image=true&theme=spotify-embed&show_offline=true&border_radius=15" alt="Now Playing on Spotify" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vsoue57t72ft7yeqqtrhwfafya&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=ff3366&bar_color_cover=true&border_radius=0" alt="Now Playing on Spotify" />
 </a>
 </div>
 
