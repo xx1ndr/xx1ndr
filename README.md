@@ -59,6 +59,26 @@ STATUS      : SYNCHRONIZING...
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx1ndr&theme=tokyonight&hide_border=true&background=00000000" height="165" />
 </div>
 
+## > LCL FREQUENCY
+
+```text
+[TRANSMISSION : NERV RADIO]
+----------------------------
+FREQ    : PILOT.LCL
+STATUS  : TUNING...
+TARGET  : SYNCING SOUL TO RHYTHM
+```
+
+<div align="center">
+<a href="https://open.spotify.com/user/31vsoue57t72ft7yeqqtrhwfafya">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vsoue57t72ft7yeqqtrhwfafya&cover_image=true&theme=spotify-embed&show_offline=true&border_radius=15" alt="Now Playing on Spotify" />
+</a>
+</div>
+
+```text
+> "The song chooses the pilot, as much as the pilot chooses the song."
+```
+
 ## > CONTACT TERMINAL
 
 <div align="center">
