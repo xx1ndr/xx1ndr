@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/309780459?v=4&s=160" width="120" alt="Indra Yudhistira">
-
 # Indra Yudhistira
 
 **Junior Web Developer · IoT Developer**
 
-`@xx1ndr` · Magetan, East Java · Software Engineering student, SMKN Takeran
+`@xx1ndr` · Magetan, East Java
 
 I build web dashboards and the ESP32 firmware behind them.
 
@@ -22,11 +20,11 @@ I build web dashboards and the ESP32 firmware behind them.
 
 ## About
 
-I'm Indra Yudhistira, a junior developer working across web and IoT. I'm based in Magetan, East Java, and I'm currently studying Software Engineering at SMKN Takeran.
+I'm Indra Yudhistira, a junior developer working across web and IoT, based in Magetan, East Java.
 
-I build browser interfaces with HTML, CSS and JavaScript, and C++ firmware for ESP32-S3 boards. My projects connect both sides: a browser-controlled LED setup, an RFID reader with OLED output, and a chat room that runs on local WiFi without internet access.
+I study Software Engineering (Rekayasa Perangkat Lunak) at **SMKN Takeran**, where I'm building the fundamentals behind my interest in software and hardware. Outside of class, I work on web interfaces in HTML, CSS and JavaScript, and firmware in C++ for ESP32-S3 boards.
 
-I also work on Android modding (UBL, root, custom ROMs).
+My projects connect both sides: a browser-controlled LED setup, an RFID reader with OLED output, and a local WiFi chat room that works without internet access. I also tinker with Android modding (UBL, root, custom ROMs).
 
 ## Profile
 
