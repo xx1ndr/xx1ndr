@@ -7,7 +7,7 @@
 Software Engineering student at SMKN Takeran · Magetan, East Java
 
 <a href="https://github.com/xx1ndr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Web+interfaces+with+HTML%2C+CSS%2C+JavaScript;ESP32-S3+firmware+in+C%2B%2B;Browser+dashboards+for+real+hardware;Local+WiFi+projects%2C+no+internet+required" alt="Web interfaces, ESP32 firmware, hardware dashboards" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Web+interfaces+with+HTML%2C+CSS%2C+JavaScript;Firmware+in+C%2B%2B+for+IoT+devices;Browser+dashboards+for+real+hardware;Local+WiFi+projects%2C+no+internet+required" alt="Web interfaces, IoT firmware, hardware dashboards" />
 </a>
 
 [About](#about) · [At a Glance](#at-a-glance) · [Tech Stack](#tech-stack) · [Projects](#projects) · [Activity](#activity) · [Contact](#contact)
@@ -20,7 +20,7 @@ Software Engineering student at SMKN Takeran · Magetan, East Java
 
 I'm Indra Yudhistira, a junior developer based in Magetan, East Java. I study **Software Engineering (Rekayasa Perangkat Lunak)** at **SMKN Takeran**, where I'm building the fundamentals behind my work in software and hardware.
 
-Most of my projects sit between a browser and a board: I write the interface in HTML, CSS and JavaScript, then write the firmware in C++ for ESP32-S3 devices. So far that includes a browser-controlled LED dashboard, an RFID reader with OLED feedback, and a local WiFi chat room that works without internet access.
+Most of my projects sit between a browser and a board: I write the interface in HTML, CSS and JavaScript, then write the firmware in C++ for IoT devices. So far that includes a browser-controlled LED dashboard, an RFID reader with OLED feedback, and a local WiFi chat room that works without internet access.
 
 Outside of web and IoT, I also tinker with Android modding (UBL, root, custom ROMs).
 
@@ -32,7 +32,7 @@ Outside of web and IoT, I also tinker with Android modding (UBL, root, custom RO
 | **Location** | Magetan, East Java, Indonesia |
 | **Main focus** | Web dashboards connected to ESP32 devices |
 | **Languages** | HTML, CSS, JavaScript, Python, C++ |
-| **Hardware** | ESP32-S3, Arduino, RFID, OLED |
+| **Hardware** | ESP32, Arduino, RFID, OLED |
 | **Also into** | Android modding: UBL, root, custom ROMs |
 | **Open to** | Collaboration, freelance work |
 
@@ -48,8 +48,8 @@ Outside of web and IoT, I also tinker with Android modding (UBL, root, custom RO
 
 | Project | Type | Built with | What it does |
 | :--- | :--- | :--- | :--- |
-| **[esp32s3-offline-chat-room](https://github.com/xx1ndr/esp32s3-offline-chat-room)** | IoT | `C++` `ESP32-S3` `WiFi` | Local WiFi chat room for messages and small files, with no internet connection. |
-| **[esp32-led-controler](https://github.com/xx1ndr/esp32-led-controler)** | IoT | `ESP32-S3` `C++` `HTML` | Web dashboard and on-board buttons for controlling LEDs on an ESP32-S3. |
+| **[esp32s3-offline-chat-room](https://github.com/xx1ndr/esp32s3-offline-chat-room)** | IoT | `C++` `ESP32` `WiFi` | Local WiFi chat room for messages and small files, with no internet connection. |
+| **[esp32-led-controler](https://github.com/xx1ndr/esp32-led-controler)** | IoT | `ESP32` `C++` `HTML` | Web dashboard and on-board buttons for controlling LEDs on an ESP32 board. |
 | **[esp32-rfid-oled](https://github.com/xx1ndr/esp32-rfid-oled)** | IoT | `C++` `RFID` `OLED` | RFID reader that shows scan feedback on an OLED display. |
 | **[mini-snaptik](https://github.com/xx1ndr/mini-snaptik)** | Web | `JavaScript` `HTML` `CSS` | Ad-free TikTok downloader for video without watermark or audio only. |
 | **[Personal Portfolio](https://portofolio-indra-git-main-xx1ndr.vercel.app/)** | Web | `HTML` `CSS` `JavaScript` | Personal portfolio site deployed on Vercel. |
@@ -57,7 +57,7 @@ Outside of web and IoT, I also tinker with Android modding (UBL, root, custom RO
 ## Currently
 
 - [x] Built web dashboards that control ESP32 boards
-- [x] Shipped ESP32-S3 projects: LED control, offline chat, RFID + OLED
+- [x] Shipped ESP32 projects: LED control, offline chat, RFID + OLED
 - [ ] Getting better at C++ for embedded work
 - [ ] Connecting device data to a cloud dashboard
 - [ ] Writing README files for the ESP32 repos
